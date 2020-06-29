@@ -3,6 +3,7 @@
         {{msg}}
         {{hi}}
         {{she}}
+        {{he}}
     </div>
 </template>
 <script>
@@ -11,7 +12,8 @@ export default {
         return {
             msg: 'zhangshaotian',
             hi: 'hello',
-            she: 'beautiful'
+            she: 'beautiful',
+            he: 'handsome'
         }
     }
 }
