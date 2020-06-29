@@ -4,6 +4,7 @@
         {{hi}}
         {{she}}
         {{he}}
+        {{over}}
     </div>
 </template>
 <script>
@@ -13,7 +14,8 @@ export default {
             msg: 'zhangshaotian',
             hi: 'hello',
             she: 'beautiful',
-            he: 'handsome'
+            he: 'handsome',
+            over: 'i can'
         }
     }
 }
