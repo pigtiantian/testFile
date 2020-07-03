@@ -15,7 +15,8 @@ export default {
             hi: 'hello',
             she: 'beautiful',
             he: 'handsome',
-            over: 'i can'
+            over: 'i can',
+            gan: 'gan'
         }
     }
 }
